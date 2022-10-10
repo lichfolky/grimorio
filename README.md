@@ -1,2 +1,4 @@
 # grimorio
-A standard 11ty template
+
+A basic [11ty](https://www.11ty.dev/
+) template.

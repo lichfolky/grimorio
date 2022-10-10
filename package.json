@@ -1,0 +1,23 @@
+{
+  "name": "grimorio",
+  "version": "1.0.0",
+  "description": "A standard [11ty](https://www.11ty.dev/ ) template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichfolky/grimorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lichfolky/grimorio/issues"
+  },
+  "homepage": "https://github.com/lichfolky/grimorio#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}

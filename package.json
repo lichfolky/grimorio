@@ -4,8 +4,8 @@
   "description": "A standard [11ty](https://www.11ty.dev/ ) template.",
   "main": "index.js",
   "scripts": {
-    "build": "npx @11ty/eleventy --input=src --output=dist",
-    "serve": "npx @11ty/eleventy --serve --input=src --output=dist"
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
